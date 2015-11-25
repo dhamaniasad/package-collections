@@ -24,7 +24,7 @@ A list of package repositories for several languages
 
 ## Objective-C/Swift
 * [CocoaPods](https://cocoapods.org/)
-* Awesomeness: [awesome-apple](https://github.com/joeljfischer/awesome-apple) / [awesome-swift)(https://github.com/matteocrippa/awesome-swift)
+* Awesomeness: [awesome-apple](https://github.com/joeljfischer/awesome-apple) / [awesome-swift](https://github.com/matteocrippa/awesome-swift)
 
 ## Erlang
 * [Hex](https://hex.pm/)
